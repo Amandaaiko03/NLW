@@ -8,7 +8,7 @@ Projeto construido no evento Next Level Week da reocketseat
 
 [clique para acessar](https://amandaaiko03.github.io/first-code/)
 
-##Tecnologias 
+## Tecnologias 
 
 -HTML
 -CSS
